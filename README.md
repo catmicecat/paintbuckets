@@ -1,0 +1,2 @@
+# paintbuckets
+Collection of colorschemes
