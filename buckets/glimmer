@@ -1,0 +1,39 @@
+! Author: catmicecat
+! Name: glimmer
+! Revision Date: 18/6/2025
+
+! fg/bg
+*.foreground:   #eeeeee
+*.background:   #0a0a0a
+
+! blk
+*.color0:       #0a0a0a
+*.color8:       #101010
+
+! red
+*.color1:       #ef808e
+*.color9:       #ef808e
+
+! grn
+*.color2:       #93fe92
+*.color10:      #93fe92
+
+! ylw
+*.color3:       #f5fd7b
+*.color11:      #f5fd7b
+
+! blu
+*.color4:       #86a8f2
+*.color12:      #86a8f2
+
+! mag
+*.color5:       #b881f1
+*.color13:      #b881f1
+
+! cyn
+*.color6:       #83c4e0
+*.color14:      #83c4e0
+
+! wht
+*.color7:       #585858
+*.color15:      #eeeeee
